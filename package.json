@@ -1,0 +1,11 @@
+{
+  "name": "nickjackson-val",
+  "description": "get/set element value",
+  "version": "0.2.2",
+  "keywords": [
+    "val",
+    "value"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
